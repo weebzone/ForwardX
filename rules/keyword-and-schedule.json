@@ -1,0 +1,28 @@
+{
+  "magic": "TFWD1",
+  "version": 1,
+  "rules": [
+    {
+      "name": "1080p only, no ads, night hours",
+      "sourceChatId": 0,
+      "sourceTitle": "⚠ Set source channel",
+      "targets": [],
+      "enabled": true,
+      "priority": 5,
+      "copyMode": false,
+      "mediaFilter": "VIDEOS",
+      "keywordInclude": "1080p, 2160p, 4k",
+      "keywordExclude": "sample, trailer, ad, promo",
+      "keywordRegex": false,
+      "keywordCaseSensitive": false,
+      "keywordWholeWord": false,
+      "minFileSizeBytes": 104857600,
+      "scheduleEnabled": true,
+      "scheduleStartMinute": 1320,
+      "scheduleEndMinute": 360,
+      "scheduleDaysMask": 127,
+      "delaySeconds": 3,
+      "maxRetries": 5
+    }
+  ]
+}

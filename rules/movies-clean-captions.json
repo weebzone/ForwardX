@@ -1,0 +1,23 @@
+{
+  "magic": "TFWD1",
+  "version": 1,
+  "rules": [
+    {
+      "name": "Movies (clean captions)",
+      "sourceChatId": 0,
+      "sourceTitle": "⚠ Set source channel",
+      "targets": [],
+      "enabled": true,
+      "priority": 10,
+      "copyMode": true,
+      "categories": ["MOVIE"],
+      "mediaFilter": "ALL",
+      "cleanFilenameCaption": true,
+      "removeLinks": true,
+      "removeUsernames": true,
+      "removeHashtags": true,
+      "removeEmojis": true,
+      "footerText": "Forwarded by ForwardX"
+    }
+  ]
+}

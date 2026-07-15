@@ -1,0 +1,15 @@
+{
+  "magic": "TFWD1",
+  "version": 1,
+  "rules": [
+    {
+      "name": "Mirror everything",
+      "sourceChatId": 0,
+      "sourceTitle": "⚠ Set source channel",
+      "targets": [],
+      "enabled": true,
+      "priority": 0,
+      "copyMode": false
+    }
+  ]
+}
