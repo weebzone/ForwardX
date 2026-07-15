@@ -15,7 +15,17 @@
 
 </div>
 
----
+<div align="center">
+
+<a href="https://github.com/weebzone/ForwardX/releases/latest">
+  <img src="https://raw.githubusercontent.com/weebzone/ForwardX/main/screenshots/downloadbanner.png" alt="Download ForwardX" width="700">
+</a>
+
+**Latest stable APK • Free • No Ads**
+
+</div>
+
+
 
 ## 🧭 Quick Navigation
 
