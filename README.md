@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
 [![Made with Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](#)
 [![Made with Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-GPL-brightgreen?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](#)
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-white?style=for-the-badge)](#)
 <br>
 
